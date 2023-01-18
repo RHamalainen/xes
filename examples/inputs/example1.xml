@@ -1,0 +1,123 @@
+<log version="0.1" features="">
+    <extension name="Ex1" prefix="ex1" uri="www.example.com"/>
+    <extension name="Ex2" prefix="ex2" uri="www.example.com"/>
+    <extension name="Ex3" prefix="ex3" uri="www.example.com"/>
+    <list key="Attribute1">
+        <list key="Attribute1-1">
+            <string key="Attribute1-1-2" value="lol"/>
+            <date key="Attribute1-1-3" value="2023-01-01"/>
+            <long key="Attribute1-1-4" value="123"/>
+            <double key="Attribute1-1-5" value="3.14"/>
+            <boolean key="Attribute1-1-6" value="true"/>
+            <id key="Attribute1-1-7" value="123"/>
+        </list>
+        <string key="Attribute1-2" value="lol"/>
+        <date key="Attribute1-3" value="2023-01-01"/>
+        <long key="Attribute1-4" value="123"/>
+        <double key="Attribute1-5" value="3.14"/>
+        <boolean key="Attribute1-6" value="true"/>
+        <id key="Attribute1-7" value="123"/>
+    </list>
+    <string key="Attribute2" value="lol"/>
+    <date key="Attribute3" value="2023-01-01"/>
+    <long key="Attribute4" value="123"/>
+    <double key="Attribute5" value="3.14"/>
+    <boolean key="Attribute6" value="true"/>
+    <id key="Attribute7" value="123"/>
+    <trace>
+        <list key="Attribute1">
+            <list key="Attribute1-1">
+                <string key="Attribute1-1-2" value="lol"/>
+                <date key="Attribute1-1-3" value="2023-01-01"/>
+                <long key="Attribute1-1-4" value="123"/>
+                <double key="Attribute1-1-5" value="3.14"/>
+                <boolean key="Attribute1-1-6" value="true"/>
+                <id key="Attribute1-1-7" value="123"/>
+            </list>
+            <string key="Attribute1-2" value="lol"/>
+            <date key="Attribute1-3" value="2023-01-01"/>
+            <long key="Attribute1-4" value="123"/>
+            <double key="Attribute1-5" value="3.14"/>
+            <boolean key="Attribute1-6" value="true"/>
+            <id key="Attribute1-7" value="123"/>
+        </list>
+        <string key="Attribute2" value="lol"/>
+        <date key="Attribute3" value="2023-01-01"/>
+        <long key="Attribute4" value="123"/>
+        <double key="Attribute5" value="3.14"/>
+        <boolean key="Attribute6" value="true"/>
+        <id key="Attribute7" value="123"/>
+        <event>
+            <list key="Attribute1">
+                <list key="Attribute1-1">
+                    <string key="Attribute1-1-2" value="lol"/>
+                    <date key="Attribute1-1-3" value="2023-01-01"/>
+                    <long key="Attribute1-1-4" value="123"/>
+                    <double key="Attribute1-1-5" value="3.14"/>
+                    <boolean key="Attribute1-1-6" value="true"/>
+                    <id key="Attribute1-1-7" value="123"/>
+                </list>
+                <string key="Attribute1-2" value="lol"/>
+                <date key="Attribute1-3" value="2023-01-01"/>
+                <long key="Attribute1-4" value="123"/>
+                <double key="Attribute1-5" value="3.14"/>
+                <boolean key="Attribute1-6" value="true"/>
+                <id key="Attribute1-7" value="123"/>
+            </list>
+            <string key="Attribute2" value="lol"/>
+            <date key="Attribute3" value="2023-01-01"/>
+            <long key="Attribute4" value="123"/>
+            <double key="Attribute5" value="3.14"/>
+            <boolean key="Attribute6" value="true"/>
+            <id key="Attribute7" value="123"/>
+        </event>
+        <event>
+            <list key="Attribute1">
+                <list key="Attribute1-1">
+                    <string key="Attribute1-1-2" value="lol"/>
+                    <date key="Attribute1-1-3" value="2023-01-01"/>
+                    <long key="Attribute1-1-4" value="123"/>
+                    <double key="Attribute1-1-5" value="3.14"/>
+                    <boolean key="Attribute1-1-6" value="true"/>
+                    <id key="Attribute1-1-7" value="123"/>
+                </list>
+                <string key="Attribute1-2" value="lol"/>
+                <date key="Attribute1-3" value="2023-01-01"/>
+                <long key="Attribute1-4" value="123"/>
+                <double key="Attribute1-5" value="3.14"/>
+                <boolean key="Attribute1-6" value="true"/>
+                <id key="Attribute1-7" value="123"/>
+            </list>
+            <string key="Attribute2" value="lol"/>
+            <date key="Attribute3" value="2023-01-01"/>
+            <long key="Attribute4" value="123"/>
+            <double key="Attribute5" value="3.14"/>
+            <boolean key="Attribute6" value="true"/>
+            <id key="Attribute7" value="123"/>
+        </event>
+    </trace>
+    <event>
+        <list key="Attribute1">
+            <list key="Attribute1-1">
+                <string key="Attribute1-1-2" value="lol"/>
+                <date key="Attribute1-1-3" value="2023-01-01"/>
+                <long key="Attribute1-1-4" value="123"/>
+                <double key="Attribute1-1-5" value="3.14"/>
+                <boolean key="Attribute1-1-6" value="true"/>
+                <id key="Attribute1-1-7" value="123"/>
+            </list>
+            <string key="Attribute1-2" value="lol"/>
+            <date key="Attribute1-3" value="2023-01-01"/>
+            <long key="Attribute1-4" value="123"/>
+            <double key="Attribute1-5" value="3.14"/>
+            <boolean key="Attribute1-6" value="true"/>
+            <id key="Attribute1-7" value="123"/>
+        </list>
+        <string key="Attribute2" value="lol"/>
+        <date key="Attribute3" value="2023-01-01"/>
+        <long key="Attribute4" value="123"/>
+        <double key="Attribute5" value="3.14"/>
+        <boolean key="Attribute6" value="true"/>
+        <id key="Attribute7" value="123"/>
+    </event>
+</log>
